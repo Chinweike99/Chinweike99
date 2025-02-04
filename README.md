@@ -1,6 +1,6 @@
 #  Hi👋, I’m Akwolu Innocent Chinweike
 ## Passionate Software Developer | Web Enthusiast | Problem Solver
-# I’m a software developer based in Lagos, Nigeria, with experience in building web applications. I’m fascinated by the web and its endless possibilities, and I thrive on creating solutions that make an impact.
+### I’m a software developer based in Lagos, Nigeria, with experience in building web applications. I’m fascinated by the web and its endless possibilities, and I thrive on creating solutions that make an impact.
 
 ## About Me.
 - Stack: JavaScript, React.js, Node.js, MongoDB
