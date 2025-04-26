@@ -9,7 +9,7 @@
   
 ## Interests
 - 👀 Interested in: Collaboration, web development, Web3, and blockchain technologies.
-- 🌱 Currently Improving my knowledge on advanced Backend concepts (Docker, containerization, gitgubActions etc).
+- 🌱 Currently Improving my knowledge on advanced Backend concepts (Docker, containerization, githubActions etc).
 - 💞️ Looking to collaborate on: Projects (frontend or backend), open-source contributions, and innovative ideas.
 
 ## 📫 How to reach me:
