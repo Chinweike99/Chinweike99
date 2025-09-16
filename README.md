@@ -1,15 +1,15 @@
 #  Hi👋, I’m Akwolu Innocent Chinweike
 ## Passionate Software Developer | Web Enthusiast | Problem Solver
-### I’m a software developer based in Lagos, Nigeria, with experience in building web applications. I’m fascinated by the web and its endless possibilities, and I thrive on creating solutions that make an impact.
+### I’m a software developer, with experience in building web applications. I’m fascinated by the web and its endless possibilities, and I thrive on creating solutions that make an impact.
 
 ## About Me.
-- Stack: JavaScript, React.js, Node.js, NextJs, Typescript,  MongoDB
+- Stack: JavaScript,Typescript,  React.js, NextJs, Node.js, Express.js, MongoDB, PostgreSQL
 - 🌟 Skills: Collaboration, independent work, adaptability to new environments and tech stacks, and a relentless drive to learn and grow.
 - 🚀 Mindset: I don’t quit until the job is done.
   
 ## Interests
-- 👀 Interested in: Collaboration, web development, Web3, and blockchain technologies.
-- 🌱 Currently Improving my knowledge on advanced Backend concepts (Docker, containerization, githubActions etc).
+- 👀 Interested in: Collaboration, web2 development and blockchain technologies (Solidity, RUST).
+- 🌱 Currently Improving my knowledge on advanced Backend concepts (AI development).
 - 💞️ Looking to collaborate on: Projects (frontend or backend), open-source contributions, and innovative ideas.
 
 ## 📫 How to reach me:
