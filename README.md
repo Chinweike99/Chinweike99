@@ -14,7 +14,7 @@ I'm a software engineer focused on building reliable, maintainable web applicati
 
 ### Current Focus
 
-Advancing my expertise in backend architecture, CI/CD automation, containerization, and production-ready systems while exploring blockchain development.
+Advancing my expertise in backend architecture, CI/CD automation, containerization, while exploring blockchain development.
 
 ### Collaboration
 
